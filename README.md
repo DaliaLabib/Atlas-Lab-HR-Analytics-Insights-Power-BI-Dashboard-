@@ -7,7 +7,9 @@ An interactive, five-page **Power BI** human resources and performance analytics
 ## 📊 Dashboard Pages & Key Insights
 
 ### 1. Overview
-![Overview Page](images/overview.png)
+
+<img width="634" height="329" alt="image" src="https://github.com/user-attachments/assets/7f6426fb-7aca-4836-bdd8-0e67d27b14d1" />
+
 
 Provides an executive snapshot of workforce scale, compensation, satisfaction, and hiring/attrition trends from **2012 to 2022**:
 * **Headline KPIs:** **1,470** Total Employees | **1,233** Active Employees | **16%** Attrition Rate (**237** terminated) | **$112.96K** Avg Salary | **3.47** Avg Manager Rating | **3.98** Avg Self Rating | **3.65** Avg Overall Satisfaction
@@ -15,7 +17,8 @@ Provides an executive snapshot of workforce scale, compensation, satisfaction, a
 * **Employees Hiring & Attrition Trend:** Stacked column trend comparing retained vs. attrited hires by hire year (`2012`–`2022`).
 
 ### 2. Demographics
-![Demographics Page](images/demographics.png)
+
+<img width="627" height="340" alt="image" src="https://github.com/user-attachments/assets/17d21bcd-7d1d-4e9f-9588-44b2c8dd7ebd" />
 
 Examines workforce diversity, age distribution, education levels, and pay parity across active employees (**1,233**):
 * **Age Range Cards:** Youngest Employee (**18**) and Oldest Employee (**51**).
@@ -24,7 +27,9 @@ Examines workforce diversity, age distribution, education levels, and pay parity
 * **Compensation & Headcount Comparisons:** Combo charts comparing active headcount and average salary across **Education Level** (peaking at **$154K** for **Doctorate** holders vs. **$95K** for **No Formal Qualifications**), **Department**, and **Ethnicity**.
 
 ### 3. Performance Tracker
-![Performance Tracker Page](images/performance_tracker.png)
+
+<img width="628" height="335" alt="image" src="https://github.com/user-attachments/assets/e35e9d7a-cb27-46ae-a1c8-efdbd29921bb" />
+
 
 Evaluates appraisal alignment, rating distributions, workplace satisfaction, and training completion across **6,709** performance reviews:
 * **KPI Cards:** **3.47** Avg Manager Rating | **3.98** Avg Self Rating | **50.5%** Training Utilization | **3.43** Avg Job Satisfaction | **3.43** Avg Relationship Satisfaction | **3.87** Avg Environment Satisfaction | **3.41** Avg Work-Life Balance.
@@ -32,7 +37,9 @@ Evaluates appraisal alignment, rating distributions, workplace satisfaction, and
 * **Rating Distributions:** Donut charts breaking down review counts across `ManagerRating` (`2`–`5`) and `SelfRating` (`3`–`5`).
 
 ### 4. Individual Ratings & Satisfaction
-![Individual Ratings & Satisfaction Page](images/individual_ratings.png)
+
+<img width="629" height="330" alt="image" src="https://github.com/user-attachments/assets/799b699f-d6e9-47c2-adcd-c02927cfe486" />
+
 
 Employee-level drill-down view (`Select Employee` slicer) displaying:
 * Employee **Start Date**, **Last Review Date**, and **Review Count**.
@@ -40,7 +47,9 @@ Employee-level drill-down view (`Select Employee` slicer) displaying:
 * Year-over-year **Employee Satisfaction** across Job, Relationship, Work-Life Balance, and Environment dimensions.
 
 ### 5. Attrition
-![Attrition Page](images/attrition.png)
+
+<img width="641" height="332" alt="image" src="https://github.com/user-attachments/assets/02112b23-b589-4490-89e3-f5cd4c2e6882" />
+
 
 Isolates turnover drivers across **237** terminated employees (**16.12%** overall attrition):
 * **Attrition KPIs:** **1,233** Active Employees | **237** Terminated Employees | **$82.26K** Terminated Avg Salary vs. **$118.86K** Retained Avg Salary (**$36.6K** pay gap) | **2.43 yrs** Terminated Avg Tenure.
